@@ -33,10 +33,10 @@ server=1
 Download the repo by clicking <>code in the uper right of the GitHub and clicking Download ZIP                
 Extract the root folder to your rooot dir.
 
-Using the terimnal install. 
+Using the terminal install. 
 ```
 cd <path to your dogeinals folder>
-npm install
+npm install bitcore-lib-doge axios dotenv mime-types express
 ``` 
 
 After all dependencies are solved, you can configure the environment:

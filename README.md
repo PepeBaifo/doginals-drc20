@@ -16,9 +16,11 @@ Please head over to [https://nodejs.org/en/download](https://nodejs.org/en/downl
 
 ## Install Dogeoin Core 
 
-Dogecoin Core version v1.14.6
+Install Dogecoin Core here:
+https://dogecoin.com/
+
 ## ⚠️⚠️⚠️ Important ⚠️⚠️⚠️
-Update you dogcoin.conf file example.
+Update you dogecoin.conf file example.
 
 ```
 rpcuser=<username>
@@ -28,7 +30,7 @@ txindex=1
 rpcallowip=127.0.0.1
 server=1
 ```
-## Install Dogenals
+## Install Doginals
 
 Download the repo by clicking <>code in the uper right of the GitHub and clicking Download ZIP                
 Extract the root folder to your rooot dir.
